@@ -1,12 +1,21 @@
 
 <h1 align="left">Hi 👋, I'm Utsman Abdurrahman</h1>
 <h4 align="left">Full-Stack Web Developer and Android Developer</h4>
+<p>
+  <img
+    align="left"
+    alt="Coding"
+    width="300"
+    src="https://media.tenor.com/7lHdnabfyTQAAAAi/herta-kurukuru.gif"
+  />
+</p>
 <img
   align="center"
   alt="Coding"
-  width="300"
-  src="https://media.tenor.com/7lHdnabfyTQAAAAi/herta-kurukuru.gif"
+  width="200"
+  src="https://cdn3.emoji.gg/emojis/8991-ratspin.gif"
 />
+
 <h3 align="left">My Stats</h3>
 <p>
   <img
@@ -22,12 +31,6 @@
     alt="utsmanabd"
   />
 </p>
-<img
-  align="center"
-  alt="Coding"
-  width="200"
-  src="https://cdn3.emoji.gg/emojis/8991-ratspin.gif"
-/>
 <h3 align="left">Language</h3>
 <p align="left">
   <a
