@@ -200,18 +200,14 @@
 
 <br />
 <p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=utsmanabd&show_icons=true&locale=en"
-    alt="utsmanabd"
-  />
-</p>
-
-<br />
-<p>
   <img
     align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=utsmanabd&"
+    alt="utsmanabd"
+  />
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=utsmanabd&show_icons=true&locale=en"
     alt="utsmanabd"
   />
 </p>
