@@ -1,13 +1,8 @@
 [![MasterHead](https://raw.githubusercontent.com/utsmanabd/utsmanabd/main/banner.png)](https://github.com/utsmanabd)
 <h1 align="left">Hi 👋, I'm Utsman Abdurrahman</h1>
 <h3 align="left">Full-Stack Web Developer and Android Developer</h3>
-<img
-  align="center"
-  alt="Coding"
-  width="400"
-  src="https://media.tenor.com/ldDoV7iwmkgAAAAi/kurukuru-kururing.gif"
-/>
 <br />
+<h3 align="left">My Stats</h3>
 <p>
   <img
     align="center"
@@ -218,4 +213,12 @@
       height="40"
     />
   </a>
+</p>
+<p>
+  <img
+  align="center"
+  alt="Coding"
+  width="400"
+  src="https://media.tenor.com/ldDoV7iwmkgAAAAi/kurukuru-kururing.gif"
+/>
 </p>
