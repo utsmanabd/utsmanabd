@@ -18,14 +18,14 @@
 <h3 align="left">My Stats</h3>
 <p>
   <img
-    align="left"
+    align="center"
     src="https://github-readme-stats.vercel.app/api?username=utsmanabd&show_icons=true&locale=en"
     alt="utsmanabd"
   />
 </p>
 <p>
   <img
-    align="left"
+    align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=utsmanabd&"
     alt="utsmanabd"
   />
