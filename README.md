@@ -12,10 +12,9 @@
 <img
   align="center"
   alt="Coding"
-  width="200"
+  width="300"
   src="https://cdn3.emoji.gg/emojis/8991-ratspin.gif"
 />
-
 <h3 align="left">My Stats</h3>
 <p>
   <img
