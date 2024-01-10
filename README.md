@@ -17,7 +17,7 @@
 </p>
 <p>
   <img
-    align="right"
+    align="left"
     src="https://github-readme-streak-stats.herokuapp.com/?user=utsmanabd&"
     alt="utsmanabd"
   />
