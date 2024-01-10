@@ -22,8 +22,6 @@
     alt="utsmanabd"
   />
 </p>
-
-<br />
 <h3 align="left">Language</h3>
 <p align="left">
   <a
