@@ -4,14 +4,8 @@
 <img
   align="center"
   alt="Coding"
-  width="150"
+  width="300"
   src="https://media.tenor.com/7lHdnabfyTQAAAAi/herta-kurukuru.gif"
-/>
-<img
-  align="center"
-  alt="Coding"
-  width="150"
-  src="https://cdn3.emoji.gg/emojis/8991-ratspin.gif"
 />
 <h3 align="left">My Stats</h3>
 <p>
@@ -227,3 +221,9 @@
     />
   </a>
 </p>
+<img
+  align="center"
+  alt="Coding"
+  width="300"
+  src="https://cdn3.emoji.gg/emojis/8991-ratspin.gif"
+/>
