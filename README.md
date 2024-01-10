@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/utsmanabd/utsmanabd/43020729826d979dff73d38ba7cfd3c4c70feda6/banner1.gif)](https://github.com/utsmanabd)
+[![MasterHead](https://raw.githubusercontent.com/utsmanabd/utsmanabd/main/banner.png)](https://github.com/utsmanabd)
 <h1 align="left">Hi 👋, I'm Utsman Abdurrahman</h1>
 <h3 align="left">Full-Stack Web Developer and Android Developer</h3>
 <img
