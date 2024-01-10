@@ -5,14 +5,14 @@
   <img
     align="left"
     alt="Coding"
-    width="300"
+    width="150"
     src="https://media.tenor.com/7lHdnabfyTQAAAAi/herta-kurukuru.gif"
   />
 </p>
 <img
   align="center"
   alt="Coding"
-  width="300"
+  width="150"
   src="https://cdn3.emoji.gg/emojis/8991-ratspin.gif"
 />
 <h3 align="left">My Stats</h3>
