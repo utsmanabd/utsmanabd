@@ -10,18 +10,24 @@
 <h3 align="left">My Stats</h3>
 <p>
   <img
-    align="center"
+    align="left"
     src="https://github-readme-stats.vercel.app/api?username=utsmanabd&show_icons=true&locale=en"
     alt="utsmanabd"
   />
 </p>
 <p>
   <img
-    align="center"
+    align="right"
     src="https://github-readme-streak-stats.herokuapp.com/?user=utsmanabd&"
     alt="utsmanabd"
   />
 </p>
+<img
+  align="center"
+  alt="Coding"
+  width="200"
+  src="https://cdn3.emoji.gg/emojis/8991-ratspin.gif"
+/>
 <h3 align="left">Language</h3>
 <p align="left">
   <a
@@ -221,9 +227,3 @@
     />
   </a>
 </p>
-<img
-  align="center"
-  alt="Coding"
-  width="300"
-  src="https://cdn3.emoji.gg/emojis/8991-ratspin.gif"
-/>
