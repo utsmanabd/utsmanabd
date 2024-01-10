@@ -4,8 +4,8 @@
 <img
   align="center"
   alt="Coding"
-  width="200"
-  src="https://media.tenor.com/ldDoV7iwmkgAAAAi/kurukuru-kururing.gif"
+  width="300"
+  src="https://media.tenor.com/7lHdnabfyTQAAAAi/herta-kurukuru.gif"
 />
 <h3 align="left">My Stats</h3>
 <p>
